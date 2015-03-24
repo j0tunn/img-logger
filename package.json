@@ -1,0 +1,18 @@
+{
+  "name": "img-logger",
+  "version": "0.1.0",
+  "author": "j0tunn <j0tunn@ya.ru>",
+  "homepage": "https://github.com/j0tunn/img-logger/",
+  "bugs": {
+    "url": "https://github.com/j0tunn/img-logger/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/j0tunn/img-logger.git"
+  },
+  "description": "Image Logger",
+  "dependencies": {
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
